@@ -1,5 +1,5 @@
-# Auto-publish
-Automatically increment and publish module versions to NPM. Uses existing published versions to detect next version (rather than depending on the `package.json` file being updated).
+# Continuous Publication
+Automatically increment and publish module versions. Uses existing published versions to detect next version (rather than depending on the `package.json` file being updated).
 
 # Install
 ```sh

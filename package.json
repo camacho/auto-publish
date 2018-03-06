@@ -1,6 +1,6 @@
 {
   "name": "continuous-publication",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Automatically publish incrementing versions of a module to NPM",
   "main": "index.js",
   "bin": {
